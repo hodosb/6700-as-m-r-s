@@ -76,6 +76,7 @@ Az alábbi táblázat a különböző frekvenciasávokhoz tartozó mért jelerő
 | 48            | 690              | 56             | 45                       | 666                        | 100.4                      |
 ### Eredmények értelmezése
 A mérések szerint a Johansson 6700 Profiler a kiválasztott frekvenciasávokban stabilan 30 dB erősítést nyújtott. Az eszköz sikeresen növelte a bemeneti jelerősséget, így a gyengébb jelek is stabilan vehetők és feldolgozhatók. Az eredmények megfeleltek az elvárásoknak, az erősítés minimális eltérésekkel stabil volt.
+
 ---
 ## 7. Hibák és Korlátozások
 A mérés során az alábbi problémák merültek fel:
