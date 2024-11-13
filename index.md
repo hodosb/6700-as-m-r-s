@@ -6,7 +6,8 @@
 
 **A mérést végző neve:** Kónya Zsombor,Hódos Balázs,Gáspár Máté  
 **A mérés tárgya:** Programozható Antennaerősítő-szűrő használata 
-**A mérés száma:** 2. mérés  
+**A mérés száma:** 
+2. mérés  
 **A mérés dátuma:** 2024. 11. 13  
 **A mérést vezette:** Sándor Péter  
 
@@ -21,6 +22,7 @@
 A Johansson 6700 Profiler egy antennajelerősítő és szűrő, amely rádiófrekvenciás jelek erősítésére és szűrésére szolgál.
  Az Avasi adótorony jeleit egy antenna fogja, majd a Johansson eszköz a csatornákat megfelelő sorrendben és frekvencián továbbítja
  , így a régi UTP-kábeles rendszeren is zavartalanul nézhető a TV.
+ 
 ---
 
 ## 2. Helyszín
